@@ -15,7 +15,7 @@ Upload the site files to a GitHub repository. In Settings → Pages, select **De
 - Edit `index.html` for professional content and links.
 - Edit `style.css` for layout, colors, and typography.
 - The portrait is from the owner's original WordPress portfolio.
-- `Jovita-Andrews-Resume.pdf` is a public résumé adapted from the supplied September 2026 source; personal phone numbers and referee contact details are omitted.
+- `Jovita-Andrews-Resume.pdf` is the exact user-supplied Jovita Andrews Sept 2026.pdf, published at the owner's request.
 - Project descriptions are summaries, not claims of measured performance. No unpublished research results or manuscript links are included.
 
 Content sources: https://jovitandrews.wordpress.com/ and the user-supplied Resume Jovita PhD 2026.pdf.
