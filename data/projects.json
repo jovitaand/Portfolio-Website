@@ -1,0 +1,85 @@
+{
+  "featured": [
+    {
+      "title": "Sentiment analysis",
+      "url": "https://github.com/jovitaand/Sentimental-Analysis-on-Movie-Reviews-",
+      "color": "violet",
+      "tagline": "Movie reviews, understood.",
+      "tags": [
+        "NLP",
+        "Classification"
+      ],
+      "summary": "Classifying movie reviews into five sentiment categories using natural language processing.",
+      "home": true
+    },
+    {
+      "title": "NBA analytics",
+      "url": "https://github.com/jovitaand/NBA-Analytics",
+      "color": "orange",
+      "tagline": "Behind the scoreboard.",
+      "tags": [
+        "Python",
+        "Predictive modeling"
+      ],
+      "summary": "Exploring player attributes, scoring contributions, and team performance in historical NBA data.",
+      "home": true
+    },
+    {
+      "title": "Text-to-speech",
+      "url": "https://github.com/jovitaand/TEXT-TO-SPEECH-CONVERTER",
+      "color": "green",
+      "tagline": "Give text a voice.",
+      "tags": [
+        "AWS Lambda",
+        "Amazon Polly"
+      ],
+      "summary": "A serverless speech-synthesis service with a low-latency endpoint for accessible applications.",
+      "home": true
+    },
+    {
+      "title": "Crime classification",
+      "url": "https://github.com/jovitaand/Crime-Classification-based-on-Geographical-Area",
+      "color": "blue",
+      "tagline": "Patterns across places.",
+      "tags": [
+        "Machine learning",
+        "Geography"
+      ],
+      "summary": "Analyzing geographic and demographic patterns in crime data through machine-learning classification.",
+      "home": false
+    },
+    {
+      "title": "NYC taxi fares",
+      "url": "https://github.com/jovitaand/NYC-Taxi-Trip-Analysis",
+      "color": "pink",
+      "tagline": "A city in motion.",
+      "tags": [
+        "Big data",
+        "Prediction"
+      ],
+      "summary": "Predicting taxi fares from trip and weather details, including distance and airport routes.",
+      "home": false
+    }
+  ],
+  "more": [
+    {
+      "title": "Containerized database system",
+      "tags": [
+        "MySQL",
+        "Docker",
+        "Flask"
+      ],
+      "summary": "A scalable relational database for public safety operations and reservation workflows."
+    },
+    {
+      "title": "Job recommendation system",
+      "tags": [
+        "Machine learning",
+        "MSSQL",
+        "JavaScript",
+        "React"
+      ],
+      "summary": "Personalized job matching using user profiles and predictive analytics."
+    }
+  ]
+}
